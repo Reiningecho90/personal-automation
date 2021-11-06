@@ -1,11 +1,6 @@
-# personal-automation
-All of my personal automation projects are stored here. This includes everything that I make to deal with small issues in y life that can be solved with code.
+# autoclicker
+This is my autoclicker made iwht python. It has proved useful for me a few times when I need an autoclicker for a game. I decided to make this as a simple project and to freshen up my python skills.
 
-Current Automations:
-
-- S.A.N.E. Personal Assistant
-- Autoclicker
-
-Working On:
-
-- VNC Security Camera
+## Functions:
+- Custom TKinter GUI
+- Automatically clicks at 0.1 second intervals
