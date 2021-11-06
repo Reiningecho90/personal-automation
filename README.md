@@ -3,7 +3,7 @@ All of my personal automation projects are stored here. This includes everything
 
 Current Automations:
 
-- S.A.N.E. Personal Assistant
+- S.A.N.E. Personal Assistant: https://github.com/Reiningecho90/personal-automation/tree/sane-ai
 - Autoclicker: https://github.com/Reiningecho90/personal-automation/tree/autoclicker
 
 Working On:
