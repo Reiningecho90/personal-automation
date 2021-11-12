@@ -8,4 +8,4 @@ Current Automations:
 
 Working On:
 
-- VNC Security Camera
+- VNC Security Camera (for parents and me combined)
